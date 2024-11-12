@@ -1,14 +1,8 @@
-This project is a codebasics assignment focusing on hotel data analysis. The objective is to analyze multiple datasets related to the performance of Atliq Hotel, which is currently facing challenges in the market and experiencing a decline in revenue. By conducting data exploration, cleaning, transformation, and generating insights, this analysis aims to provide valuable information to help Atliq Hotel understand its current situation and devise strategies to overcome the problem.
+This project is a Codebasics assignment I worked on, focused on analyzing hotel data for Atliq Hotel. The goal was to examine different datasets related to the hotel's performance, as it’s currently facing challenges in the market with declining revenue. By exploring, cleaning, transforming the data, and generating insights, I aimed to provide Atliq Hotel with a clear understanding of its issues and suggest strategies for improvement.
 
-The project follows a structured approach consisting of the following steps:
+I followed these steps in my approach:
 
-1. Data Exploration: Explore the provided datasets to gain a comprehensive understanding of the data.
-
-2. Data Cleaning: Clean the datasets to ensure data integrity, handle missing values, remove duplicates, and resolve any inconsistencies.
-
-3. Data Transformation: Transform the cleaned datasets by deriving additional meaningful features or variables, such as calculating occupancy rates.
-
-4. Analysis and Insights: Analyze the transformed data to uncover insights related to revenue patterns and potential factors contributing to the revenue decline.
-
-The generated insights will assist Atliq Hotel in understanding the underlying to improve its performance and increase revenue.
-
+Data Exploration: I reviewed the datasets to get a clear understanding of the information.
+Data Cleaning: I cleaned the data to ensure accuracy, handling missing values, removing duplicates, and fixing inconsistencies.
+Data Transformation: I adjusted the cleaned data to add useful features, like calculating occupancy rates.
+Analysis and Insights: I analyzed the transformed data to uncover patterns and potential factors behind the revenue drop.
